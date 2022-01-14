@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Public Sans', sans-serif;
+}
+
+html{
+    height: 100%;
+    width: 100%;
+}

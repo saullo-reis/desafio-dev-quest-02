@@ -1,0 +1,61 @@
+
+header{
+    display: flex;
+    padding-top: 55px;
+    padding-left: 38px;
+    padding-right: 74px;
+    align-items: center;
+
+}
+
+header a{
+    display: flex;
+}
+
+header .logo img{
+    width: 48.28px;
+    height: 30px;
+}
+
+header .logo h1{
+    font-size: 30px;
+    align-items: center;
+    color: black;
+}
+
+header .menu-left{
+    display: flex;
+    position: absolute;
+    right: 0;
+    padding-right: 74px;
+}
+
+header nav ul{
+    display: flex;
+}
+
+header nav ul li a{
+    margin: 0 13px ;
+    padding: 10px;
+    color: black;
+
+}
+
+header .menu-left nav ul li a:hover{
+    background-color: #5BC241;
+    color: #fff;
+}
+
+header .menu-left button{
+    background-color: #5BC241;
+    padding: 10px 21px 11px 21px;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 15px;
+    margin-left: 22px;
+}
+
+header .menu-left button:hover{
+    cursor: pointer;
+}

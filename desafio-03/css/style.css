@@ -1,0 +1,49 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+
+.left{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 30px;
+}
+
+.left .placeholder{
+    background-color: #C4C4C4;
+    width: 100%;
+    height: 90%;
+}
+.right{
+    margin: 30px;
+    margin-left: 0;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+
+.right .placeholder-anuncio{
+    background-color: #C4C4C4;
+    width: 100%;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.right .placeholder{
+    background-color: #C4C4C4;
+    width: 50%;
+    height: 120px;
+    margin-right: 10px; ;
+}
+
+.right .video{
+    display: flex;
+    margin: 10px;
+    margin-left: 0;
+}
+
+h2,p{
+    margin: 5px;
+}

@@ -1,0 +1,51 @@
+
+.containers{
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.text{
+    color: #fff;
+    margin: 0 0 32px 15px;
+}
+.containers .container-image{
+    display: flex;
+    justify-content: stretch;
+    width: 336px;
+    height: 432px;
+    margin: 10px;
+
+}
+.containers .rome{
+    background: url(/lista-imagens/6.jpg) center center no-repeat;
+    display: flex;
+    background-size: cover;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.containers .ship{
+    background: url(/lista-imagens/3.jpg) center center no-repeat;
+    display: flex;
+    background-size: cover;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.containers .sand{
+    background: url(/lista-imagens/4.jpg) center center no-repeat;
+    display: flex;
+    background-size: cover;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.containers .night{
+    background: url(/lista-imagens/5.jpg) center center no-repeat;
+    display: flex;
+    background-size: cover;
+    flex-direction: column;
+    justify-content: flex-end;
+}
