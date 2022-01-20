@@ -19,7 +19,7 @@
 
 }
 .containers .rome{
-    background: url(/lista-imagens/6.jpg) center center no-repeat;
+    background: url(../lista-imagens/6.jpg) center center no-repeat;
     display: flex;
     background-size: cover;
     flex-direction: column;
@@ -27,7 +27,7 @@
 }
 
 .containers .ship{
-    background: url(/lista-imagens/3.jpg) center center no-repeat;
+    background: url(../lista-imagens/3.jpg) center center no-repeat;
     display: flex;
     background-size: cover;
     flex-direction: column;
@@ -35,7 +35,7 @@
 }
 
 .containers .sand{
-    background: url(/lista-imagens/4.jpg) center center no-repeat;
+    background: url(../lista-imagens/4.jpg) center center no-repeat;
     display: flex;
     background-size: cover;
     flex-direction: column;
@@ -43,7 +43,7 @@
 }
 
 .containers .night{
-    background: url(/lista-imagens/5.jpg) center center no-repeat;
+    background: url(../lista-imagens/5.jpg) center center no-repeat;
     display: flex;
     background-size: cover;
     flex-direction: column;
